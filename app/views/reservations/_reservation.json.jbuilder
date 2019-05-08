@@ -1,2 +1,2 @@
-json.extract! reservation, :id, :row, :column, :flight_id, :user_id, :created_at, :updated_at
-json.url reservation_url(reservation, format: :json)
+json.extract! reservation, :row, :column
+json.extract! reservation.user, :name
