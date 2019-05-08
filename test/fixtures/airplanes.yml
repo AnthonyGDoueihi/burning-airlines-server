@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plane_model: MyText
+  rows: 1
+  columns: 1
+
+two:
+  plane_model: MyText
+  rows: 1
+  columns: 1
